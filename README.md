@@ -2,7 +2,7 @@
 [# Data Mining and Predictive Analytics course](https://github.com/Anna-Gaplanyan/Data-Mining-and-Predictive-Analytics-)
 
 
-[# Data Scraping](https://github.com/Anna-Gaplanyan/Data-Scraping)
+[# Data Scraping course](https://github.com/Anna-Gaplanyan/Data-Scraping)
 
 [#Project 1](https://github.com/Anna-Gaplanyan/Data-Mining-and-Predictive-Analytics-/tree/main/Group%20project)
 
