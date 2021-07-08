@@ -18,3 +18,10 @@ low-performing students and sign learning contracts with them. That contract all
 office hours, prioritize homework and reading, and show more improvement in exam performance. "These
 learning contracts are low-cost, low-effort tools to increase student commitment, boost academic performance,
 and encourage self-direction.
+[#Project 2](https://github.com/Anna-Gaplanyan/Data-Mining-and-Predictive-Analytics-/tree/main/Data%20Mining%20and%20Predictive%20Analytics%20individual%20project)
+
+Criminality is a major danger to humanity. It is growing and spreading at a rapid and broad scale. The
+police face significant challenges in crime prediction and criminal detection. Hence, the goal of the project is
+to use various data mining tools and techniques in order to predict the crime rate and detect crime hotspots
+based on locations. This project will aid police forces in forecasting and identifying crime in a given location
+and diminish the crime rates.
