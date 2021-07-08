@@ -5,6 +5,7 @@
 [# Data Scraping](https://github.com/Anna-Gaplanyan/Data-Scraping)
 
 [#Project 1](https://github.com/Anna-Gaplanyan/Data-Mining-and-Predictive-Analytics-/tree/main/Group%20project)
+
 The usage of data mining in education, especially in the online learning aspect, has become a necessity. The
 database gained from the elearning environment(Moodle system) needs to be processed, and we need data
 mining tools in order to get insights into the data. Our project aims to represent the whole phases of processing
