@@ -30,7 +30,7 @@ and diminish the crime rates.
 [#Project 3](https://github.com/Anna-Gaplanyan/Data-Scraping/tree/main/Group%20Project)
 
 Insufficient attention has given to rental price setting mechanism in rental market of Armenia.
-This paper studies how different characteristics affects the housing prices in forty-six urban
-areas. The paper raises important questions about pricing in the sharing economy and generates
+This project studies how different characteristics affects the housing prices in forty-six urban
+areas. The project raises important questions about pricing in the sharing economy and generates
 hedonic price model and different machine learning algorithms to predict the prices. Some
 conclusions and recommendations are done based on the estimated results.
