@@ -1,7 +1,7 @@
 # Data_Portfolio
 [# Data Mining and Predictive Analytics course](https://github.com/Anna-Gaplanyan/Data-Mining-and-Predictive-Analytics-)
 
-[# Machine learning with Python datacamp course](https://anna-gaplanyan.github.io/Machine-learning-with-Python-datacamp-course-/)
+[# Machine learning with Python datacamp course](https://github.com/Anna-Gaplanyan/Machine-learning-with-Python-datacamp-course-)
 
 [# Data Scraping course](https://github.com/Anna-Gaplanyan/Data-Scraping)
 
