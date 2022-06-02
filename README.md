@@ -4,6 +4,7 @@
 [# Machine learning with Python datacamp course](https://github.com/Anna-Gaplanyan/Machine-learning-with-Python-datacamp-course-)
 
 [# Data Scraping course](https://github.com/Anna-Gaplanyan/Data-Scraping)
+[# Machine learning approach to fake news detection in Armenian media](https://github.com/Anna-Gaplanyan/Thesis.git)
 
 [#Project 1](https://github.com/Anna-Gaplanyan/Data-Mining-and-Predictive-Analytics-/tree/main/Group%20project)
 
