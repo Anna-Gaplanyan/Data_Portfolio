@@ -1,5 +1,7 @@
 # Data_Portfolio
 [# Development of a data warehouse and a data loading process](https://github.com/Anna-Gaplanyan/Snowflake-project/tree/main)
+
+
 [# Data Mining and Predictive Analytics course](https://github.com/Anna-Gaplanyan/Data-Mining-and-Predictive-Analytics-)
 
 [# Machine learning with Python datacamp course](https://github.com/Anna-Gaplanyan/Machine-learning-with-Python-datacamp-course-)
