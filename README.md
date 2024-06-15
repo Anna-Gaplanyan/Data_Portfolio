@@ -4,6 +4,7 @@
 
 [# ETL ELT project](https://github.com/Anna-Gaplanyan/ETL-ELT-Project)
 
+[# Misrosoft Teams messages sending using Airflow](https://github.com/Anna-Gaplanyan/Airflow-Project-for-Microsoft-Teams/tree/main)
 
 [# Data Mining and Predictive Analytics course](https://github.com/Anna-Gaplanyan/Data-Mining-and-Predictive-Analytics-)
 
