@@ -1,5 +1,5 @@
 # Data_Portfolio
-[# Development of a data warehouse and a data loading process with Snowflake](https://github.com/Anna-Gaplanyan/Snowflake-project/tree/main)
+[# Development of a data warehouse and a data loading process with Snowflake and AWS S3](https://github.com/Anna-Gaplanyan/Snowflake-project/tree/main)
 
 
 [# ETL ELT project](https://github.com/Anna-Gaplanyan/ETL-ELT-Project)
