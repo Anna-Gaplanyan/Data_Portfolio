@@ -1,6 +1,7 @@
 # Data_Portfolio
 
 [# Data-Engineering-School-2024-Final-Project](https://github.com/Anna-Gaplanyan/Data-Engineering-School-2024-Final-Project/tree/main)
+
 [# User-Metrics-Ingestion](https://github.com/Anna-Gaplanyan/User-Metrics-Ingestion/tree/main)
 
 [# Development of a data warehouse and a data loading process with Snowflake and AWS S3](https://github.com/Anna-Gaplanyan/Snowflake-project/tree/main)
